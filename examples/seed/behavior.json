@@ -1,0 +1,25 @@
+{
+  "initialState": "at_home",
+  "recoveryState": "at_home",
+  "animations": {
+    "rest": {
+      "loop": true,
+      "frames": [
+        {
+          "file": "assets/rest-000.png",
+          "durationMs": 1000
+        }
+      ]
+    }
+  },
+  "states": {
+    "at_home": {
+      "animation": "rest"
+    }
+  },
+  "actions": {},
+  "regions": {},
+  "rules": [],
+  "menu": [],
+  "interactions": []
+}

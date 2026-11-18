@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "id": "offwork-seed",
+  "version": "1.0.0",
+  "displayName": "小芽",
+  "author": "Offwork Pet",
+  "requires": [
+    "render.frames/v1",
+    "input.pointer/v1"
+  ],
+  "thumbnail": "thumbnail.png",
+  "canvas": {
+    "width": 108,
+    "height": 108,
+    "anchor": [
+      54.0,
+      108
+    ]
+  },
+  "behavior": "behavior.json",
+  "credits": [
+    {
+      "author": "Offwork Pet",
+      "source": "seed.png",
+      "license": "MIT"
+    }
+  ]
+}
